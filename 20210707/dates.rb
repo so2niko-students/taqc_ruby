@@ -559,10 +559,6 @@ def countries arr
 
 end
 
-def countries arr
-
-end
-
 def lowest_lat arr
 
 end
@@ -588,5 +584,9 @@ def highest_lat_lon arr
 end
 
 def events_per_year arr
+
+end
+
+def zeroest_lat arr
 
 end
